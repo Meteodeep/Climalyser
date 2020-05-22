@@ -4,7 +4,7 @@ import webbrowser
 
 def climalyser():
     total = 0
-    print("REMEMBER: Use your Latest Home Utility Stats")
+    print("REMEMBER: Use your Latest Home Utility Statistics")
 
     eletric=(int(input("What is your Daily Average Electricity Usage? (In kWh) ")))
     
